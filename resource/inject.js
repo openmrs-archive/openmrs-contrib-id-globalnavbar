@@ -119,7 +119,7 @@ DOMReady.add(function(){
 						timer = null;
 						cont.className = cont.className.replace('navbar-hidden', '');
 						
-					}, 400);					
+					}, 1000);					
 				}
 				
 			}
